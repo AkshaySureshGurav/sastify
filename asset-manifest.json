@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sastify/static/css/main.072c499d.css",
+    "main.js": "/sastify/static/js/main.9964a851.js",
+    "index.html": "/sastify/index.html",
+    "main.072c499d.css.map": "/sastify/static/css/main.072c499d.css.map",
+    "main.9964a851.js.map": "/sastify/static/js/main.9964a851.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.072c499d.css",
+    "static/js/main.9964a851.js"
+  ]
+}
